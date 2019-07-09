@@ -1,4 +1,4 @@
 console.log("hello word");
 console.log("gitignore");
-console.log("gitignore1");
+console.log("gitignore2");
 
